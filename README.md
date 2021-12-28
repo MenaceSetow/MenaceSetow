@@ -2,7 +2,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/menacesetow">
-  <img height="180em" src="https://cdn.discordapp.com/attachments/743125088098058341/915576571174211594/538D7E1F-DBC7-4FD1-8B17-0F374EBED4DF.gif"/>
+  <img height="180em" src="https://cdn.discordapp.com/attachments/922392255065653279/925176184264863784/9245c61d1c275ee444cf906d8f72d47f.gif"/>
 </a>
   
 </p>
